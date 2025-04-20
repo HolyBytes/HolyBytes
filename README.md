@@ -211,10 +211,22 @@
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzhkdm8wdmlqajRtYjRhbTZkbWdwajE5cDlzcWVvemVvZjlldWs0cyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/j5hWF2V3RlNGItTkGd/giphy.gif" width="100">
   </div>
   
-  <div style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 30px; border-radius: 16px; max-width: 600px; margin: 0 auto 40px; box-shadow: 0 15px 35px rgba(31, 38, 135, 0.4);">
-    <h3 style="color: #6366F1; margin-bottom: 15px; text-shadow: 0 0 10px rgba(99,102,241,0.3);">© 2025 <b>Ade Pratama</b> • Dibuat dengan 💖 dan Kode</h3>
-    <p style="color: #94a3b8; font-style: italic; text-shadow: 0 1px 2px rgba(0,0,0,0.2);">"Berbagi ilmu adalah sedekah terbaik untuk dunia"</p>
-  </div>
+ <div style="background: linear-gradient(135deg, #0d1117, #161b22); padding: 30px; border-radius: 16px; max-width: 700px; margin: 0 auto 40px; box-shadow: 0 15px 35px rgba(31, 38, 135, 0.4); text-align: center;">
+  <h3 style="color: #6366F1; margin-bottom: 15px; text-shadow: 0 0 6px rgba(99,102,241,0.2); font-weight: 600;">
+    © 2025 <b>Ade Pratama</b> • Dibuat dengan 🔥 semangat & 💻 kode
+  </h3>
+  <p style="color: #94a3b8; font-style: italic; line-height: 1.6; text-shadow: 0 1px 2px rgba(0,0,0,0.2); margin-bottom: 20px;">
+    “Sebaik-baik manusia adalah yang paling bermanfaat bagi manusia.”<br>
+    <span style="font-size: 14px;">(HR. Ahmad)</span><br><br>
+    “Barangsiapa yang menunjukkan kepada kebaikan, maka ia akan mendapat pahala seperti orang yang mengerjakannya.”<br>
+    <span style="font-size: 14px;">(HR. Muslim)</span><br><br>
+    “...dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa.”<br>
+    <span style="font-size: 14px;">(QS. Al-Maidah: 2)</span>
+  </p>
+  <a href="https://www.smkn1pulaurakyat.sch.id/" target="_blank" style="display: inline-block; margin-top: 10px; color: #60a5fa; text-decoration: none; font-weight: bold; transition: color 0.3s;">
+    🌐 Kunjungi Website Sekolah
+  </a>
+</div>
 
   <div style="margin-top: 30px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,30&height=120&section=footer&fontSize=40&fontColor=fff&animation=twinkling"/>
