@@ -1,194 +1,158 @@
+<!-- Header dengan Banner Anime dan Nama -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Ade%20Pratama&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://wallpapercave.com/wp/wp9405496.jpg" width="500" alt="Anime Programming Illustration" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9C%A8+Future+Web+Developer+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?logo=GitHub&style=for-the-badge&color=6C63FF" alt="GitHub Followers" /></a>
-  <img src="https://img.shields.io/badge/MOOD-Coding%20With%20Music-6C63FF?style=for-the-badge" alt="Mood" />
-  <img src="https://img.shields.io/badge/Class-12%20TKJ3-6C63FF?style=for-the-badge" alt="Class" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+  <img src="https://i.imgur.com/A6bWGFl.gif" alt="Anime Header" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-  <b>Hai! Salam Kenal</b>
-</h1>
-
-<div align="justify">
-  <img align="right" width="300px" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anime-boy-avatar-image-83.jpg" style="border-radius: 20px; margin-left: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
-  
-  <p style="font-size: 1.1em; text-indent: 20px;">
-    ✨ Assalamu'alaikum, Hai semuanya! Aku <b>Ade Pratama</b>, seorang penjelajah dunia digital dari <b>SMK Negeri 1 Pulau Rakyat</b>.
-  </p>
-  
-  <p style="font-size: 1.1em; text-indent: 20px;">
-    🎮 Perjalananku bermula dari dunia game yang membuatku penasaran—bagaimana caranya ciptaan digital yang menakjubkan ini dibuat? Rasa ingin tahu itulah yang memanduku ke dalam dunia pemrograman yang penuh keajaiban.
-  </p>
-  
-  <p style="font-size: 1.1em; text-indent: 20px;">
-    💻 Di setiap baris kode yang kutulis, terselip harapan untuk mengubah angan menjadi kenyataan. Dengan paduan antara kreativitas dan logika, aku yakin bisa menghadirkan solusi yang tak hanya berguna, tapi juga memberikan inspirasi bagi banyak orang.
-  </p>
-  
-  <p style="font-size: 1.1em; text-indent: 20px;">
-    🌟 Aku selalu percaya bahwa berbagi ilmu adalah jembatan menuju kemajuan bersama. Mari kita jelajahi rimba teknologi bersama-sama dan ciptakan masa depan yang lebih cerah!
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</div>
-
-<h1 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> 
-  <b>Kemampuan Teknis</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=Halo!+Aku+Ade+Pratama+%F0%9F%91%8B;Programmer+Muda+%F0%9F%9A%80;Petualang+Digital+%F0%9F%8C%90;SMK+Negeri+1+Pulau+Rakyat+%F0%9F%8F%AB" alt="Typing SVG" />
+  </a>
 </h1>
 
 <div align="center">
-  <h3>⚡ Bahasa & Framework ⚡</h3>
+  <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Fsprites%2F32c7371a-6e8b-6ae4-6183-1f67e413bf08%2F1bd35ac6-97b7-11eb-86b2-dd0af7c1e0ce&w=384&q=75" width="400" alt="Anime Programming Illustration" />
 </div>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,js,nodejs,mysql,py&theme=dark&perline=4" />
-</div>
+<p align="center">
+  <a href="https://github.com/yourusername?tab=followers">
+    <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=00AEFF&labelColor=black&logo=GitHub&label=Followers" alt="GitHub Followers" />
+  </a>
+  <img src="https://img.shields.io/badge/Mood-Semangat%20Coding-style=for-the-badge&color=FF0069&labelColor=black" alt="Mood" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- About Me Section with Anime Illustration -->
+<h2 align="center">✨ Tentang Diriku</h2>
+
+<table>
+  <tr>
+    <td>
+      <img align="right" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="400" alt="anime coding"/>
+    </td>
+    <td>
+      <p align="justify">
+        Assalamu'alaikum warahmatullahi wabarakatuh! ✨
+        <br><br>
+        Perkenalkan, aku <b>Ade Pratama</b>, seorang siswa kelas 12 TKJ3 dari <b>SMK Negeri 1 Pulau Rakyat</b> yang mengagumi keindahan dunia teknologi.
+        <br><br>
+        Perjalanan digitalku bermula dari kecintaanku pada game-game seru yang membuat jiwa penasaranku bertanya: "Bagaimana caranya menciptakan dunia virtual yang memukau ini?" Dari sinilah langkahku dalam dunia pemrograman dimulai.
+        <br><br>
+        Setiap baris kode yang kutulis ibarat puzzle yang menyenangkan, membangun jembatan antara imajinasi dan kenyataan digital. Dengan perpaduan kreativitas dan logika, aku yakin dapat menciptakan karya-karya yang tidak hanya bermanfaat, tetapi juga mampu menginspirasi orang lain.
+        <br><br>
+        Mari bertukar pikiran dan tumbuh bersama dalam dunia teknologi yang penuh keajaiban! ✨
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Skills Section -->
+<h2 align="center">🚀 Kemampuan Teknisku</h2>
 
 <div align="center">
-  <h3>🔧 Alat & Platform 🔧</h3>
+  <!-- Frontend -->
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="70" height="70"/>
 </div>
+  
+<h3 align="center">Teknologi yang kukuasai:</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop&theme=dark&perline=5" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
 <br>
 
 <div align="center">
-  <details>
-    <summary><h3>📊 Detail Kemampuan Teknis</h3></summary>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866" alt="Top Languages">
-    </div>
-  </details>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+</div>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Inspirational Quote Section -->
+<h2 align="center">💭 Kata-Kata Penyemangat</h2>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/e52a1d6d2ca8ea1dc9bebfff15dca450/tumblr_nthfpjDEYU1qc8x9xo1_500.gifv" width="300" alt="Anime Inspiration">
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="50"> 
-  <b>Proyek-Proyek Terbaik</b>
-</h1>
-
-<div align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio-website&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="portfolio-website">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=school-management-system&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="school-management-system">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=game-development&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="game-development">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="ai-chatbot">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=30&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&height=70&lines=Mengejar+mimpi+seperti+menulis+kode...;Butuh+kesabaran%2C+ketelitian%2C;dan+keberanian+untuk+mencoba." alt="Motivational Quote" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+  <blockquote>
+    "Di dunia digital, kita adalah penulis cerita masa depan. Setiap baris kode adalah kalimat dalam cerita kemajuan. Jangan takut pada error, karena ia mengajarkan kita kesempurnaan. Jangan menyerah pada bug, karena ia melatih kesabaran kita. Teruslah belajar, karena ilmu adalah harta yang tak akan pernah hilang."
+  </blockquote>
+  <p>— Ade Pratama © 2025</p>
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-  <b>Kata-Kata Penyemangat</b>
-</h1>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/63ce6e55b9eb6930bdf0e03aad203832/7ed4232ec0c3ec7a-a9/s500x750/e327e2be55dcc65047e13afc54d144d4aa2e4a78.gifv" width="350px" style="border-radius: 15px;" />
-</div>
-
-<br>
-
-<div align="center">
-  <div style="width: 80%; margin: 0 auto; background-color: #1A1B27; padding: 20px; border-radius: 15px; border-left: 5px solid #6C63FF; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
-    <p style="font-size: 1.2em; font-style: italic;">
-      "Dalam dunia yang berubah begitu cepat, kode-kode yang kita tulis hari ini mungkin kan usang esok hari. Tapi semangat untuk terus belajar dan berbagi pengetahuan, itulah yang akan abadi sepanjang masa."
-    </p>
-    <p style="text-align: right; font-weight: bold;">
-      — Ade Pratama © 2025
-    </p>
-  </div>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> 
-  <b>GitHub Statistik</b>
-</h1>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=1A1B27&stroke=6C63FF&ring=6C63FF&fire=FFD700&currStreakLabel=6C63FF" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" alt="GitHub Trophies" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1A1B27&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" width="90%" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</div>
-
-<h1 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
-  <b>Mari Terhubung!</b>
-</h1>
+<!-- Social Media -->
+<h2 align="center">🌐 Mari Terhubung!</h2>
 
 <div align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/yourusername">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://discord.com/users/yourusername">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://youtube.com/@yourusername">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <a href="https://discordapp.com/users/yourusername">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
 
-<br>
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats Section with Anime Decoration -->
+<h2 align="center">📈 GitHub Statistik</h2>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+  <img src="https://i.imgur.com/YCw47Dm.gif" width="100">
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" width="80%"/>
+</p>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=1&column=7" width="100%" alt="Trophy" align="middle" />
+</div><br>
 
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Footer -->
 <div align="center">
-  <h3>© 2025 <b>Ade Pratama</b> • Dibuat dengan ❤️ dan semangat yang tak pernah padam</h3>
-  <p>"Berbagi ilmu adalah sedekah yang pahalanya tak pernah putus"</p>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="100%">
+  
+  <h3>© 2025 <b>Ade Pratama</b> • Dibuat dengan 💖 dan semangat belajar</h3>
+  
+  <sub><sup>"Berbagi ilmu adalah sedekah terbaik untuk dunia"</sup></sub>
+  
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="80" width="100%">
 </div>
