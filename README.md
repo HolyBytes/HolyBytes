@@ -10,322 +10,322 @@
 
 ## 👨‍💻 Tentang Saya
 
-<table>
-  <tr>
-    <td width="60%">
-      <p>Salam digital! Saya <b>Ade Pratama</b>, seorang siswa kelas 12 TKJ3 di SMK Negeri 1 Pulau Rakyat dengan keingintahuan tanpa batas dalam dunia teknologi. Perjalanan saya dimulai dari ruang-ruang virtual game yang menantang imajinasi, hingga akhirnya menginspirasi saya untuk menyelami rahasia di balik penciptaannya.</p>
-      
-      <p>Setiap baris kode yang saya tulis adalah bagian dari kisah panjang untuk mengubah mimpi menjadi realitas digital. Dengan kombinasi antara kreativitas dan logika pemrograman, saya percaya bisa menciptakan solusi yang tidak hanya berfungsi, tetapi juga menginspirasi.</p>
-      
-      <ul>
-        <li>🌟 <b>Visi:</b> Menciptakan pengalaman digital yang menginspirasi dan memberdayakan orang lain</li>
-        <li>🎮 <b>Passion:</b> Membangun dunia virtual interaktif melalui game development yang mengasah Unity dan C#</li>
-        <li>🌐 <b>Fokus:</b> Memadukan seni frontend dan kekuatan backend untuk membangun web aplikasi yang komprehensif</li>
-        <li>🚀 <b>Prinsip:</b> Belajar adalah proses tanpa akhir - setiap tantangan adalah kesempatan untuk bertumbuh</li>
-        <li>💡 <b>Filosofi:</b> <i>"Code adalah bahasa untuk mengubah imajinasi menjadi inovasi"</i></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300px" alt="Coding Animation">
-      <p><i>"Setiap baris kode yang saya tulis adalah langkah menuju masa depan yang saya impikan."</i></p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="200px" alt="Coding Animation">
+</div>
 
 <div align="center">
-  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider">
+  <table border="0" style="margin: 0 auto; border: none; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.15); border-radius: 16px; overflow: hidden; background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%);">
+    <tr>
+      <td style="padding: 25px; text-align: center;">
+        <h3 style="margin-top: 0; background: linear-gradient(90deg, #FF6BFF, #AB4BFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">💫 Salam Digital! 💫</h3>
+        <p style="font-size: 16px; line-height: 1.6; text-align: justify;">
+          Saya <b>Ade Pratama</b>, seorang siswa kelas 12 TKJ3 di <b>SMK Negeri 1 Pulau Rakyat</b> yang memiliki keingintahuan tanpa batas dalam dunia teknologi. Perjalanan saya dimulai dari ruang-ruang virtual game yang menantang imajinasi, hingga menyelami rahasia di balik penciptaannya.
+        </p>
+        <p style="font-size: 16px; line-height: 1.6; text-align: justify;">
+          Setiap baris kode yang saya tulis adalah bagian dari kisah panjang untuk mengubah mimpi menjadi realitas digital. Dengan kombinasi antara kreativitas dan logika pemrograman, saya percaya bisa menciptakan solusi yang tidak hanya berfungsi, tetapi juga menginspirasi.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <table style="width: 100%; border-collapse: separate; border-spacing: 15px;">
+    <tr>
+      <td style="width: 50%; background: rgba(255, 107, 255, 0.08); border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(171, 75, 255, 0.1);">
+        <h3 align="center" style="margin-top: 0;">🌟 Visi & Misi</h3>
+        <p align="center" style="font-style: italic;">
+          "Menciptakan pengalaman digital yang menginspirasi dan memberdayakan orang lain"
+        </p>
+        <ul style="padding-left: 20px;">
+          <li>Membangun solusi teknologi yang bermanfaat bagi masyarakat</li>
+          <li>Menggabungkan kreativitas dan logika dalam setiap proyek</li>
+          <li>Terus belajar dan beradaptasi dengan perkembangan teknologi</li>
+        </ul>
+      </td>
+      <td style="width: 50%; background: rgba(171, 75, 255, 0.08); border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(255, 107, 255, 0.1);">
+        <h3 align="center" style="margin-top: 0;">💡 Prinsip & Filosofi</h3>
+        <p align="center" style="font-style: italic; margin-bottom: 15px;">
+          "Code adalah bahasa untuk mengubah imajinasi menjadi inovasi"
+        </p>
+        <ul style="padding-left: 20px;">
+          <li>Belajar adalah proses tanpa akhir - setiap tantangan adalah kesempatan</li>
+          <li>Teknologi terbaik adalah yang menghubungkan manusia, bukan hanya perangkat</li>
+          <li>Kualitas lebih penting daripada kuantitas dalam pengembangan software</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center" style="margin-top: 30px;">
+  <table style="width: 100%; border-collapse: separate; border-spacing: 0;">
+    <tr>
+      <td style="width: 25%; text-align: center; padding: 15px;">
+        <img src="https://img.icons8.com/fluency/96/000000/controller.png" width="60px" alt="Game Icon"/>
+        <h4>🎮 Passion</h4>
+        <p>Game Development<br>dengan Unity & C#</p>
+      </td>
+      <td style="width: 25%; text-align: center; padding: 15px;">
+        <img src="https://img.icons8.com/fluency/96/000000/web.png" width="60px" alt="Web Icon"/>
+        <h4>🌐 Fokus</h4>
+        <p>Full Stack Web<br>Development</p>
+      </td>
+      <td style="width: 25%; text-align: center; padding: 15px;">
+        <img src="https://img.icons8.com/fluency/96/000000/idea.png" width="60px" alt="Idea Icon"/>
+        <h4>🧠 Minat</h4>
+        <p>Problem Solving &<br>Kreativitas Digital</p>
+      </td>
+      <td style="width: 25%; text-align: center; padding: 15px;">
+        <img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60px" alt="Rocket Icon"/>
+        <h4>🚀 Tujuan</h4>
+        <p>Inovasi Teknologi<br>& Dampak Sosial</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider" style="margin: 40px 0 20px 0;">
 </div>
 
 ## 🛠️ Tech Stack & Skills
 
-<p align="center">
-  Teknologi bukanlah sekadar alat, tapi perpanjangan dari kreativitas dan pemikiran kita. Setiap bahasa pemrograman dan framework yang saya pelajari membuka jendela baru untuk menerjemahkan ide menjadi solusi nyata. Perjalanan tanpa henti dalam mengeksplorasi teknologi ini menjadi fondasi untuk menciptakan produk digital yang bermakna.
-</p>
+<div align="center" style="margin-bottom: 30px;">
+  <p style="max-width: 800px; margin: 0 auto 30px auto; font-style: italic; color: #777;">
+    "Teknologi bukanlah sekadar alat, tapi perpanjangan dari kreativitas dan pemikiran kita."
+  </p>
+</div>
 
 <div align="center">
-  <!-- Bahasa Pemrograman -->
-  <div style="margin-bottom: 15px;">
-    <h3>🔤 Bahasa Pemrograman</h3>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  </div>
-
-  <!-- Framework & Library -->
-  <div style="margin-bottom: 15px;">
-    <h3>🧩 Framework & Library</h3>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 40px;">
+    <!-- Programming Card -->
+    <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 300px; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1);">
+      <div style="text-align: center; margin-bottom: 20px;">
+        <img src="https://img.icons8.com/color/96/000000/source-code.png" width="60px" alt="Code Icon"/>
+        <h3 style="margin: 10px 0; color: #AB4BFF;">💻 Bahasa Pemrograman</h3>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">HTML5</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">CSS3</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">JavaScript</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">PHP</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">Java</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">C#</span>
+      </div>
+    </div>
+    
+    <!-- Framework Card -->
+    <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 300px; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1);">
+      <div style="text-align: center; margin-bottom: 20px;">
+        <img src="https://img.icons8.com/color/96/000000/web-components.png" width="60px" alt="Framework Icon"/>
+        <h3 style="margin: 10px 0; color: #AB4BFF;">🧩 Framework & Library</h3>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">Bootstrap</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">React</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">Node.js</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">jQuery</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">Unity</span>
+      </div>
+    </div>
   </div>
   
-  <!-- Database -->
-  <div style="margin-bottom: 15px;">
-    <h3>🗃️ Database & Storage</h3>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-bottom: 40px;">
+    <!-- Database Card -->
+    <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 300px; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1);">
+      <div style="text-align: center; margin-bottom: 20px;">
+        <img src="https://img.icons8.com/color/96/000000/database.png" width="60px" alt="Database Icon"/>
+        <h3 style="margin: 10px 0; color: #AB4BFF;">🗃️ Database & Storage</h3>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">MySQL</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">MongoDB</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">SQLite</span>
+      </div>
+    </div>
+    
+    <!-- Tools Card -->
+    <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 300px; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1);">
+      <div style="text-align: center; margin-bottom: 20px;">
+        <img src="https://img.icons8.com/color/96/000000/maintenance.png" width="60px" alt="Tools Icon"/>
+        <h3 style="margin: 10px 0; color: #AB4BFF;">🔧 Development Tools</h3>
+      </div>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">VS Code</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">Git</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">GitHub</span>
+        <span style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; padding: 8px 15px; border-radius: 50px; font-size: 14px; font-weight: 500;">Figma</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="margin: 50px 0;">
+  <div align="center">
+    <div style="max-width: 800px; margin: 0 auto;">
+      <h3 style="margin-bottom: 25px; color: #AB4BFF;">💪 Keahlian Utama</h3>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+        <!-- Skill Bar 1 -->
+        <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+            <span style="font-weight: 600; color: #FF6BFF;">🎮 Game Development</span>
+            <span style="font-weight: 600; color: #FF6BFF;">70%</span>
+          </div>
+          <div style="height: 10px; background-color: rgba(171, 75, 255, 0.2); border-radius: 5px; position: relative;">
+            <div style="position: absolute; height: 100%; width: 70%; background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); border-radius: 5px;"></div>
+          </div>
+          <p style="font-size: 13px; color: #777; margin-top: 8px; text-align: center;">Unity, C#, Game Design, UX/UI</p>
+        </div>
+
+        <!-- Skill Bar 2 -->
+        <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+            <span style="font-weight: 600; color: #FF6BFF;">💻 Front-End</span>
+            <span style="font-weight: 600; color: #FF6BFF;">85%</span>
+          </div>
+          <div style="height: 10px; background-color: rgba(171, 75, 255, 0.2); border-radius: 5px; position: relative;">
+            <div style="position: absolute; height: 100%; width: 85%; background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); border-radius: 5px;"></div>
+          </div>
+          <p style="font-size: 13px; color: #777; margin-top: 8px; text-align: center;">HTML5, CSS3, JavaScript, React</p>
+        </div>
+
+        <!-- Skill Bar 3 -->
+        <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+            <span style="font-weight: 600; color: #FF6BFF;">⚙️ Back-End</span>
+            <span style="font-weight: 600; color: #FF6BFF;">75%</span>
+          </div>
+          <div style="height: 10px; background-color: rgba(171, 75, 255, 0.2); border-radius: 5px; position: relative;">
+            <div style="position: absolute; height: 100%; width: 75%; background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); border-radius: 5px;"></div>
+          </div>
+          <p style="font-size: 13px; color: #777; margin-top: 8px; text-align: center;">PHP, Node.js, API Development</p>
+        </div>
+
+        <!-- Skill Bar 4 -->
+        <div style="width: 45%; min-width: 300px; margin-bottom: 20px;">
+          <div style="display: flex; justify-content: space-between; margin-bottom: 8px;">
+            <span style="font-weight: 600; color: #FF6BFF;">🛢️ Database</span>
+            <span style="font-weight: 600; color: #FF6BFF;">80%</span>
+          </div>
+          <div style="height: 10px; background-color: rgba(171, 75, 255, 0.2); border-radius: 5px; position: relative;">
+            <div style="position: absolute; height: 100%; width: 80%; background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); border-radius: 5px;"></div>
+          </div>
+          <p style="font-size: 13px; color: #777; margin-top: 8px; text-align: center;">MySQL, MongoDB, Database Design</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider" style="margin-bottom: 30px;">
+</div>
+
+## 📱 Mari Terhubung!
+
+<div align="center" style="margin-bottom: 30px;">
+  <img src="https://i.pinimg.com/originals/de/7d/8d/de7d8df6c408842a9332d7cce71df079.gif" width="240px" style="border-radius: 50%; margin-bottom: 20px;" alt="Connect Animation">
+  
+  <p style="max-width: 700px; margin: 0 auto 30px auto; font-style: italic; color: #777;">
+    "Perjalanan di dunia teknologi lebih bermakna ketika kita saling berbagi. Saya selalu terbuka untuk kolaborasi, berbagi pengalaman, atau sekadar ngobrol santai tentang teknologi dan kreativitas!"
+  </p>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 40px;">
+  <!-- Email -->
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 200px; text-align: center; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1); transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/96/000000/mail.png" width="60px" alt="Email Icon"/>
+    <h3 style="margin: 15px 0 10px 0; color: #AB4BFF;">Email</h3>
+    <p style="margin-bottom: 15px; font-size: 14px;">Diskusi ide atau proyek baru</p>
+    <a href="mailto:adepratama@example.com" style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; text-decoration: none; padding: 8px 20px; border-radius: 50px; font-size: 14px; font-weight: 500; display: inline-block;">Hubungi</a>
   </div>
   
-  <!-- Tools -->
-  <div style="margin-bottom: 15px;">
-    <h3>🔧 Development Tools</h3>
-    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <!-- Instagram -->
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 200px; text-align: center; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1); transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="60px" alt="Instagram Icon"/>
+    <h3 style="margin: 15px 0 10px 0; color: #AB4BFF;">Instagram</h3>
+    <p style="margin-bottom: 15px; font-size: 14px;">Updates & snippets kreatif</p>
+    <a href="https://instagram.com/adepratama" style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; text-decoration: none; padding: 8px 20px; border-radius: 50px; font-size: 14px; font-weight: 500; display: inline-block;">Follow</a>
+  </div>
+  
+  <!-- GitHub -->
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 200px; text-align: center; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1); transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/96/000000/github.png" width="60px" alt="GitHub Icon"/>
+    <h3 style="margin: 15px 0 10px 0; color: #AB4BFF;">GitHub</h3>
+    <p style="margin-bottom: 15px; font-size: 14px;">Proyek & kolaborasi</p>
+    <a href="https://github.com/HolyBytes" style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; text-decoration: none; padding: 8px 20px; border-radius: 50px; font-size: 14px; font-weight: 500; display: inline-block;">Follow</a>
   </div>
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <p><i>"Semakin banyak alat yang Anda kuasai, semakin tak terbatas potensi kreasi Anda"</i></p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 25px; margin-bottom: 60px;">
+  <!-- Discord -->
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 200px; text-align: center; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1); transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/96/000000/discord.png" width="60px" alt="Discord Icon"/>
+    <h3 style="margin: 15px 0 10px 0; color: #AB4BFF;">Discord</h3>
+    <p style="margin-bottom: 15px; font-size: 14px;">Komunitas & gaming</p>
+    <a href="https://discord.com/users/adepratama" style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; text-decoration: none; padding: 8px 20px; border-radius: 50px; font-size: 14px; font-weight: 500; display: inline-block;">Connect</a>
+  </div>
   
-  <table>
-    <tr>
-      <td>
-        <h3>🎮 Game Development</h3>
-        <div style="background-color: #2a2a2a; border-radius: 10px; height: 20px; width: 100%; margin-bottom: 10px;">
-          <div style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); width: 70%; height: 100%; border-radius: 10px;">
-            <span style="padding-left: 10px; color: white; font-weight: bold;">70%</span>
-          </div>
-        </div>
-        <p><small>Menciptakan dunia virtual dan pengalaman interaktif yang memukau</small></p>
-      </td>
-      <td>
-        <h3>💻 Front-End</h3>
-        <div style="background-color: #2a2a2a; border-radius: 10px; height: 20px; width: 100%; margin-bottom: 10px;">
-          <div style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); width: 85%; height: 100%; border-radius: 10px;">
-            <span style="padding-left: 10px; color: white; font-weight: bold;">85%</span>
-          </div>
-        </div>
-        <p><small>Mewujudkan visi menjadi antarmuka yang estetik dan responsif</small></p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>⚙️ Back-End</h3>
-        <div style="background-color: #2a2a2a; border-radius: 10px; height: 20px; width: 100%; margin-bottom: 10px;">
-          <div style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); width: 75%; height: 100%; border-radius: 10px;">
-            <span style="padding-left: 10px; color: white; font-weight: bold;">75%</span>
-          </div>
-        </div>
-        <p><small>Membangun logika dan fondasi kokoh di balik layar</small></p>
-      </td>
-      <td>
-        <h3>🛢️ Database</h3>
-        <div style="background-color: #2a2a2a; border-radius: 10px; height: 20px; width: 100%; margin-bottom: 10px;">
-          <div style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); width: 80%; height: 100%; border-radius: 10px;">
-            <span style="padding-left: 10px; color: white; font-weight: bold;">80%</span>
-          </div>
-        </div>
-        <p><small>Mengelola data dengan struktur yang efisien dan aman</small></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider">
-</div>
-
-## 🚀 Proyek Unggulan
-
-<p align="center">
-  Setiap proyek adalah kisah tersendiri—perpaduan antara tantangan, solusi, dan pembelajaran yang tak ternilai. Di balik setiap baris kode terdapat jam-jam eksplorasi, eksperimen, dan tekad untuk menciptakan karya yang bermakna. Berikut adalah beberapa milestone dalam perjalanan kreatif saya, memadukan passion dalam game development dan web technology.
-</p>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎮 Dimensi: Petualangan Antardimensi</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZ1b2FzY3J0Z2d0dGQ5a2RjYjR5eG1qZ2JtY3J5dGJ6dWJ1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7abKhK8ewV5nn7g4/giphy.gif" width="100%" alt="Game Project"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>Unity | C# | Game Design | Visual Effects</strong>
-        </p>
-        <p align="justify">
-          Game petualangan yang menggabungkan mekanik puzzle dimensi dengan narasi mendalam tentang penjelajahan antardunia. Menggunakan sistem fisika custom dan visual shader untuk efek portal antarruang. Proyek ini mengajarkan saya tentang kompleksitas game development, optimasi performa, dan seni mendongeng interaktif.
-        </p>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Mainkan_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Kode-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">🌐 Neoteric - Portfolio Dinamis</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW5mZ3ZvZ2R2b3V6b2VlZGJ0Y2V1dGx4Y2R4bGJ5dGZ5d2V1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.gif" width="100%" alt="Web Project"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>HTML5 | SCSS | JavaScript | Bootstrap | GSAP</strong>
-        </p>
-        <p align="justify">
-          Lebih dari sekadar website portfolio—ini adalah kanvas digital yang menampilkan perjalanan kreatif saya. Dibangun dengan fokus pada pengalaman pengguna yang imersif, website ini menggabungkan animasi halus dengan interaksi yang responsif. Termasuk sistem tema dinamis dan visualisasi interaktif dari perjalanan pembelajaran saya.
-        </p>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Kode-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">📚 EduSync - Platform Pembelajaran Interaktif</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/l3q2FnW3yv6NNHPX2/giphy.gif" width="100%" alt="School Management App"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>PHP | MySQL | JavaScript | AJAX | Bootstrap</strong>
-        </p>
-        <p align="justify">
-          Platform pembelajaran yang lahir dari pengalaman pribadi sebagai siswa—menjembatani kesenjangan antara pendidik dan pelajar. Dilengkapi dengan fitur manajemen kelas virtual, sistem penugasan interaktif, analitik pembelajaran, dan forum diskusi real-time. Sebuah solusi yang dirancang untuk membantu sesama siswa dan guru di sekolah saya mengoptimalkan proses belajar-mengajar.
-        </p>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Kode-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">📊 InsightDash - Analitik Visual</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXpxNmtkc2hlZXY0ZjhteGFsYnZ0ZWs4bHNnZWExbnZpMHM2MG50YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPsx2VAYAgEHC12/giphy.gif" width="100%" alt="Admin Dashboard"/>
-          </a>
-        </p>
-        <p align="center">
-          <strong>Node.js | Express | MySQL | D3.js | React</strong>
-        </p>
-        <p align="justify">
-          Dashboard analitik yang mengubah data kompleks menjadi wawasan visual yang mudah dicerna. Proyek ini mengajarkan saya tentang pentingnya visualisasi data, arsitektur API yang efisien, dan keamanan aplikasi web. Menjadi jembatan antara data mentah dan pengambilan keputusan strategis, InsightDash mendemonstrasikan bagaimana teknologi dapat memperjelas kompleksitas.
-        </p>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Demo-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Demo"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Lihat_Kode-171515?style=for-the-badge&logo=github&logoColor=white" alt="Code"/>
-          </a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <p style="margin-top: 20px; font-style: italic;">"Setiap proyek bukan sekadar titik akhir, tetapi bagian dari perjalanan pertumbuhan yang berkelanjutan"</p>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider">
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adepratama&theme=radical&hide_border=true" alt="GitHub Streak Stats" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adepratama&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepratama&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180em" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adepratama&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider">
-</div>
-
-## 💭 Kata-Kata Inspirasi
-
-<div align="center">
-  <img src="https://readme-quotes.vercel.app/api?theme=radical&animation=grow_out_in" alt="Quote" />
+  <!-- LinkedIn -->
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 200px; text-align: center; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1); transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60px" alt="LinkedIn Icon"/>
+    <h3 style="margin: 15px 0 10px 0; color: #AB4BFF;">LinkedIn</h3>
+    <p style="margin-bottom: 15px; font-size: 14px;">Jaringan profesional</p>
+    <a href="https://www.linkedin.com/in/adepratama/" style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; text-decoration: none; padding: 8px 20px; border-radius: 50px; font-size: 14px; font-weight: 500; display: inline-block;">Connect</a>
+  </div>
   
-  <div style="background: linear-gradient(45deg, rgba(131,58,180,0.2) 0%, rgba(253,29,29,0.2) 50%, rgba(252,176,69,0.2) 100%); border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <blockquote style="font-size: 18px; font-style: italic; line-height: 1.6;">
-      "Dalam dunia digital, kita bukan sekadar pengguna teknologi, tetapi arsitek masa depan. Setiap baris kode adalah batu bata yang membangun jembatan menuju dunia yang lebih baik. Tantangan bukanlah halangan, melainkan undangan untuk berinovasi. Ketika layar menjadi kosong, itulah saat kreativitas tak terbatas dimulai."
-      <br><br>
-      "Seperti dalam game, level kesulitan yang meningkat hanyalah tanda bahwa kamu telah tumbuh lebih kuat. Jangan takut gagal—gagal hanyalah checkpoint untuk memulai kembali dengan strategi yang lebih baik. Yang terpenting bukan berapa kali kamu jatuh, tapi bagaimana kode dan semangat kamu terus berjalan, terus direfactor, dan terus berkembang."
-      <br><br>— <i>Ade Pratama, 2025</i>
+  <!-- Portfolio -->
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px; padding: 25px; width: 200px; text-align: center; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.1); transition: transform 0.3s;">
+    <img src="https://img.icons8.com/fluency/96/000000/domain.png" width="60px" alt="Portfolio Icon"/>
+    <h3 style="margin: 15px 0 10px 0; color: #AB4BFF;">Portfolio</h3>
+    <p style="margin-bottom: 15px; font-size: 14px;">Karya & proyek terbaik</p>
+    <a href="#" style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); color: white; text-decoration: none; padding: 8px 20px; border-radius: 50px; font-size: 14px; font-weight: 500; display: inline-block;">Lihat</a>
+  </div>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 30px;">
+  <div style="background: linear-gradient(135deg, rgba(255, 107, 255, 0.05) 0%, rgba(171, 75, 255, 0.05) 100%); border-radius: 16px; padding: 25px; width: 100%; max-width: 700px; text-align: center; box-shadow: 0 4px 24px rgba(170, 51, 255, 0.05);">
+    <blockquote style="font-style: italic; color: #777; margin: 0;">
+      "Jangan hanya menjadi konsumen teknologi, jadilah kreatornya. Terhubunglah, berkolaborasilah, dan ciptakanlah bersama untuk masa depan yang lebih baik."
     </blockquote>
   </div>
 </div>
 
 <div align="center">
-  <p style="font-weight: bold; font-size: 18px;">🌱 Belajar. 🔍 Eksplorasi. 🚀 Ciptakan. 🌟 Inspirasi.</p>
+  <img src="https://komarev.com/ghpvc/?username=adepratama&color=ff69fa&style=for-the-badge" alt="Profile Views" style="margin-bottom: 20px;" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider">
+  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider" style="margin: 30px 0;">
 </div>
 
-## 📱 Mari Terhubung!
-
-<p align="center">
-  Perjalanan di dunia teknologi lebih bermakna ketika kita saling berbagi. Saya selalu terbuka untuk kolaborasi, berbagi pengalaman, atau sekadar ngobrol santai tentang teknologi dan kreativitas. Jangan ragu untuk terhubung—setiap koneksi membuka jendela baru untuk pertumbuhan bersama!
-</p>
-
-<div align="center" style="margin-top: 20px;">
-  <a href="mailto:adepratama@example.com" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    <p><small>Diskusi ide atau proyek</small></p>
-  </a>
-  <a href="https://instagram.com/adepratama" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    <p><small>Updates & snippets kreatif</small></p>
-  </a>
-  <a href="https://discord.com/users/adepratama" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    <p><small>Komunitas & gaming</small></p>
-  </a>
-  <a href="https://github.com/adepratama" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <p><small>Open-source & kolaborasi</small></p>
-  </a>
-  <a href="https://www.linkedin.com/in/adepratama/" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    <p><small>Jaringan profesional</small></p>
-  </a>
+<div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, rgba(255, 107, 255, 0.05) 0%, rgba(171, 75, 255, 0.05) 100%); border-radius: 16px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <h3 style="color: #AB4BFF; margin-top: 0;">💭 Kata-Kata Inspirasi</h3>
+  
+  <div style="background: linear-gradient(45deg, rgba(131,58,180,0.1) 0%, rgba(253,29,29,0.1) 50%, rgba(252,176,69,0.1) 100%); border-radius: 10px; padding: 20px; margin: 20px 0;">
+    <blockquote style="font-size: 16px; font-style: italic; line-height: 1.6; color: #555; margin: 0;">
+      "Dalam dunia digital, kita bukan sekadar pengguna teknologi, tetapi arsitek masa depan. Setiap baris kode adalah batu bata yang membangun jembatan menuju dunia yang lebih baik. Tantangan bukanlah halangan, melainkan undangan untuk berinovasi."
+      <br><br>
+      "Seperti dalam game, level kesulitan yang meningkat hanyalah tanda bahwa kamu telah tumbuh lebih kuat. Jangan takut gagal—gagal hanyalah checkpoint untuk memulai kembali dengan strategi yang lebih baik."
+      <br><br>— <i>Ade Pratama</i>
+    </blockquote>
+  </div>
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <p style="font-style: italic;">"Jangan hanya menjadi konsumen teknologi, jadilah kreatornya. Terhubunglah, berkolaborasilah, dan ciptakanlah bersama untuk masa depan yang lebih baik."</p>
-  <img src="https://komarev.com/ghpvc/?username=adepratama&color=ff69fa&style=for-the-badge" alt="Profile Views" />
+<div align="center" style="margin-top: 40px;">
+  <div style="background: linear-gradient(90deg, #FF6BFF 0%, #AB4BFF 100%); padding: 3px; border-radius: 50px; max-width: 600px; margin: 0 auto;">
+    <div style="background: white; border-radius: 50px; padding: 10px 20px;">
+      <p style="font-weight: bold; font-size: 18px; margin: 0; background: linear-gradient(90deg, #FF6BFF, #AB4BFF); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+        🌱 Belajar. 🔍 Eksplorasi. 🚀 Ciptakan. 🌟 Inspirasi.
+      </p>
+    </div>
+  </div>
 </div>
 
-<div align="center">
-  <img src="https://i.imgur.com/jz6b6X3.gif" width="100%" height="3px" alt="divider">
-</div>
-
-<footer align="center">
-  <p>Dibuat dengan ❤️ dan ☕ oleh Ade Pratama</p>
-  <p>✨ Siswa SMK Negeri 1 Pulau Rakyat ✨</p>
-  <p>🎯 "Teknologi terbaik adalah yang menghubungkan manusia, bukan hanya perangkat" 🎯</p>
+<footer align="center" style="margin-top: 60px; padding: 20px; background: linear-gradient(135deg, rgba(255, 107, 255, 0.1) 0%, rgba(171, 75, 255, 0.1) 100%); border-radius: 16px;">
+  <p style="margin-bottom: 10px;">Dibuat dengan ❤️ dan ☕ oleh <strong>Ade Pratama</strong></p>
+  <p style="margin-bottom: 10px;">✨ Siswa SMK Negeri 1 Pulau Rakyat ✨</p>
+  <p style="margin-bottom: 0;">🎯 "Teknologi terbaik adalah yang menghubungkan manusia, bukan hanya perangkat" 🎯</p>
 </footer>
