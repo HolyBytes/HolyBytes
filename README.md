@@ -1,158 +1,194 @@
-# 🚀 Ade Pratama
-
 <div align="center">
-  <img src="https://i.imgur.com/1FfVrPX.gif" alt="Banner Anime Coding Estetik"/>
-  
-  ### 💻 TKJ3 SMK Negeri 1 Pulau Rakyat 💻
-  
-  <img src="https://i.imgur.com/ByZIQQP.gif" alt="Avatar Anime Tech" style="border-radius:50%; border: 3px solid #2ea44f;"/>
-  
-  [![GitHub Followers](https://img.shields.io/github/followers/adepratama?label=Pengikut&style=for-the-badge&color=ff69b4&labelColor=292929&logo=github)](https://github.com/adepratama?tab=followers)
-  [![GitHub Stars](https://img.shields.io/github/stars/adepratama?affiliations=OWNER%2CCOLLABORATOR&label=Bintang&style=for-the-badge&color=ffcc00&labelColor=292929&logo=github)](https://github.com/adepratama?tab=stars)
-  [![Coding Life](https://img.shields.io/badge/Coding-Hidup%20Saya-ff3e41?style=for-the-badge&labelColor=292929&logo=visualstudiocode)](https://github.com/adepratama)
-</div>
-
----
-
-<div align="center">
-  <em>"Kode. Kreasi. Kemenangan."</em>
-  
-  <img src="https://i.imgur.com/Gairxzr.gif" alt="Animated Neon Tech Bar"/>
-</div>
-
-## 👨‍💻 Tentang Saya
-
-Saya **Ade Pratama**, seorang siswa kelas 12 TKJ3 di **SMK Negeri 1 Pulau Rakyat** yang memiliki keingintahuan tanpa batas dalam dunia teknologi. Perjalanan saya dimulai dari ruang-ruang virtual game yang menantang imajinasi, hingga menyelami rahasia di balik penciptaannya.
-
-Setiap baris kode yang saya tulis adalah bagian dari kisah panjang untuk mengubah mimpi menjadi realitas digital. Dengan kombinasi antara kreativitas dan logika pemrograman, saya percaya bisa menciptakan solusi yang tidak hanya berfungsi, tetapi juga menginspirasi.
-
-<div align="center">
-  <img src="https://i.imgur.com/wLEIeXC.gif" alt="Karakter Anime 3D Programmer dengan Tampilan Holografik"/>
-</div>
-
-## 💻 Keahlian Teknis
-
-<div align="center">
-  <img src="https://i.imgur.com/S0QgUi9.gif" alt="Header Tech Stack Animasi"/>
-  
-  <p align="center">
-    <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-    <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-  </p>
-  
-  <p align="center">
-    <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=282828&logoWidth=20"/></a>
-  </p>
-</div>
-
-## 🏆 Prestasi & Proyek
-
-<div align="center">
-  <img src="https://i.imgur.com/JffHkZL.gif" alt="Banner Prestasi Animasi Cyberpunk"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Ade%20Pratama&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://i.imgur.com/EHJ7RZ4.gif" alt="Proyek 1 Animasi" width="250"/></td>
-      <td><img src="https://i.imgur.com/pqGgnMd.gif" alt="Proyek 2 Animasi" width="250"/></td>
-      <td><img src="https://i.imgur.com/XLMCCfG.gif" alt="Proyek 3 Animasi" width="250"/></td>
-    </tr>
-    <tr>
-      <td align="center"><b>🎮 Tech Battle Arena</b><br><small>Proyek game development dengan karakter bergaya anime</small></td>
-      <td align="center"><b>🥷 Code Samurai</b><br><small>Asisten coding dengan AI dan antarmuka visual</small></td>
-      <td align="center"><b>🎓 Digital Dojo</b><br><small>Platform belajar untuk programmer muda</small></td>
-    </tr>
-  </table>
-</div>
-
-## 🌱 Pertumbuhan & Kebijaksanaan
-
-<div align="center">
-  <img src="https://i.imgur.com/aK1CJRK.gif" alt="Animasi Pohon Bonsai Digital"/>
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=adepratama&show_icons=true&theme=tokyonight&border_color=00ffd2&bg_color=0D1117&title_color=00ffd2&icon_color=00ffd2&text_color=FFFFFF" alt="Statistik GitHub" /></a>
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adepratama&theme=tokyonight&hide_border=false&border=00ffd2&background=0D1117&stroke=00ffd2&ring=00ffd2&fire=FFA500&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00ffd2&sideLabels=00ffd2&dates=FFFFFF" alt="Statistik Streak GitHub" /></a>
-</div>
-
-<div align="center">
-  <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=adepratama&theme=discord&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy GitHub" /></a>
-</div>
-
-<div align="center">
-  <img src="https://i.imgur.com/w8bHGFZ.gif" alt="Animasi Kontribusi GitHub 3D" />
   <br>
-  <em>🌱 Taman Kontribusi Saya 🌱</em>
+  <img src="https://wallpapercave.com/wp/wp9405496.jpg" width="500" alt="Anime Programming Illustration" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=false&width=435&lines=%E2%9C%A8+Future+Web+Developer+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adepratama&layout=compact&theme=tokyonight&border_color=00ffd2&bg_color=0D1117&title_color=00ffd2" alt="Bahasa Teratas" />
+  <a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?logo=GitHub&style=for-the-badge&color=6C63FF" alt="GitHub Followers" /></a>
+  <img src="https://img.shields.io/badge/MOOD-Coding%20With%20Music-6C63FF?style=for-the-badge" alt="Mood" />
+  <img src="https://img.shields.io/badge/Class-12%20TKJ3-6C63FF?style=for-the-badge" alt="Class" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+  <b>Hai! Salam Kenal</b>
+</h1>
+
+<div align="justify">
+  <img align="right" width="300px" src="https://aniyuki.com/wp-content/uploads/2022/05/aniyuki-anime-boy-avatar-image-83.jpg" style="border-radius: 20px; margin-left: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);" />
+  
+  <p style="font-size: 1.1em; text-indent: 20px;">
+    ✨ Assalamu'alaikum, Hai semuanya! Aku <b>Ade Pratama</b>, seorang penjelajah dunia digital dari <b>SMK Negeri 1 Pulau Rakyat</b>.
+  </p>
+  
+  <p style="font-size: 1.1em; text-indent: 20px;">
+    🎮 Perjalananku bermula dari dunia game yang membuatku penasaran—bagaimana caranya ciptaan digital yang menakjubkan ini dibuat? Rasa ingin tahu itulah yang memanduku ke dalam dunia pemrograman yang penuh keajaiban.
+  </p>
+  
+  <p style="font-size: 1.1em; text-indent: 20px;">
+    💻 Di setiap baris kode yang kutulis, terselip harapan untuk mengubah angan menjadi kenyataan. Dengan paduan antara kreativitas dan logika, aku yakin bisa menghadirkan solusi yang tak hanya berguna, tapi juga memberikan inspirasi bagi banyak orang.
+  </p>
+  
+  <p style="font-size: 1.1em; text-indent: 20px;">
+    🌟 Aku selalu percaya bahwa berbagi ilmu adalah jembatan menuju kemajuan bersama. Mari kita jelajahi rimba teknologi bersama-sama dan ciptakan masa depan yang lebih cerah!
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"> 
+  <b>Kemampuan Teknis</b>
+</h1>
+
+<div align="center">
+  <h3>⚡ Bahasa & Framework ⚡</h3>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,php,js,nodejs,mysql,py&theme=dark&perline=4" />
+</div>
+
+<div align="center">
+  <h3>🔧 Alat & Platform 🔧</h3>
+</div>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,photoshop&theme=dark&perline=5" />
 </div>
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <div style="background: linear-gradient(to right, #00ffd2, #2e7ad4); padding: 2px; border-radius: 10px;">
-        <div style="background-color: #0D1117; border-radius: 8px; padding: 16px;">
-          <p><i>"Kode adalah bahasa yang menghubungkan logika dengan imajinasi. Jangan takut menghadapi error, karena dari situlah pembelajaran nyata dimulai."</i></p>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="background: linear-gradient(to right, #00ffd2, #2e7ad4); padding: 2px; border-radius: 10px;">
-        <div style="background-color: #0D1117; border-radius: 8px; padding: 16px;">
-          <p><i>"Ketika dunia digital dan kreativitas bersatu, tidak ada batasan apa yang bisa kamu ciptakan. Teruslah berinovasi!"</i></p>
-        </div>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div style="background: linear-gradient(to right, #00ffd2, #2e7ad4); padding: 2px; border-radius: 10px;">
-        <div style="background-color: #0D1117; border-radius: 8px; padding: 16px;">
-          <p><i>"Debug masalahmu seperti kamu debug kodemu: dengan sabar, sistematis, dan tanpa menyerah."</i></p>
-        </div>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 📫 Hubungi Saya
-
 <div align="center">
-  <img src="https://i.imgur.com/ZXxIqQu.gif" alt="Banner Media Sosial Animasi"/>
-  
-  <p>
-    <a href="https://discord.gg/adepratama"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=black"/></a>
-    <a href="https://instagram.com/adepratama"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=black"/></a>
-    <a href="https://twitter.com/adepratama"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=black"/></a>
-    <a href="https://linkedin.com/in/adepratama"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black"/></a>
-  </p>
+  <details>
+    <summary><h3>📊 Detail Kemampuan Teknis</h3></summary>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866" alt="Top Languages">
+    </div>
+  </details>
 </div>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/qEqiI3Oq7vBkoE236M/giphy.gif" width="50"> 
+  <b>Proyek-Proyek Terbaik</b>
+</h1>
 
 <div align="center">
-  <img src="https://i.imgur.com/TLcYDem.gif" alt="Animasi Dunia Digital Coder Anime" />
-  
-  <sub><sup>🚀 Dikode dengan penuh semangat oleh Ade Pratama 🚀</sup></sub>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=adepratama&style=flat-square&color=00ffd2" alt="Dilihat Profil"/>
-    <img src="https://img.shields.io/github/last-commit/adepratama/adepratama?style=flat-square&color=00ffd2&label=Commit%20Terakhir" alt="Commit Terakhir"/>
-  </p>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio-website&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="portfolio-website">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=school-management-system&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="school-management-system">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=game-development&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="game-development">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=ai-chatbot&theme=react&bg_color=1A1B27&title_color=6C63FF&icon_color=F8D866&hide_border=true" alt="ai-chatbot">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
+  <b>Kata-Kata Penyemangat</b>
+</h1>
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/63ce6e55b9eb6930bdf0e03aad203832/7ed4232ec0c3ec7a-a9/s500x750/e327e2be55dcc65047e13afc54d144d4aa2e4a78.gifv" width="350px" style="border-radius: 15px;" />
+</div>
+
+<br>
+
+<div align="center">
+  <div style="width: 80%; margin: 0 auto; background-color: #1A1B27; padding: 20px; border-radius: 15px; border-left: 5px solid #6C63FF; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);">
+    <p style="font-size: 1.2em; font-style: italic;">
+      "Dalam dunia yang berubah begitu cepat, kode-kode yang kita tulis hari ini mungkin kan usang esok hari. Tapi semangat untuk terus belajar dan berbagi pengetahuan, itulah yang akan abadi sepanjang masa."
+    </p>
+    <p style="text-align: right; font-weight: bold;">
+      — Ade Pratama © 2025
+    </p>
+  </div>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50"> 
+  <b>GitHub Statistik</b>
+</h1>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=1A1B27&stroke=6C63FF&ring=6C63FF&fire=FFD700&currStreakLabel=6C63FF" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=discord&no-frame=true&row=1&column=7&margin-w=10&no-bg=true" alt="GitHub Trophies" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=1A1B27&color=6C63FF&line=6C63FF&point=FFFFFF&hide_border=true" width="90%" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> 
+  <b>Mari Terhubung!</b>
+</h1>
+
+<div align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:youremail@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/yourusername">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://youtube.com/@yourusername">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/yourusername/count.svg" alt="Visitor Count" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer" />
+</div>
+
+<div align="center">
+  <h3>© 2025 <b>Ade Pratama</b> • Dibuat dengan ❤️ dan semangat yang tak pernah padam</h3>
+  <p>"Berbagi ilmu adalah sedekah yang pahalanya tak pernah putus"</p>
 </div>
