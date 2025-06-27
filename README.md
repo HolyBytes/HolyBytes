@@ -19,11 +19,15 @@
 
 **STATUS**: `AKTIF BERBURU` | **IZIN AKSES**: `LEVEL 9` | **MISI**: `AMANKAN DUNIA DIGITAL`
 
-Gue **ADE PRATAMA**, bukan script kiddie amatiran. Seorang **Bug Hunter** dan **Penetration Tester** profesional yang berburu celah keamanan kayak predator digital. Setiap vulnerability yang gue temukan adalah trofi, setiap exploit yang berhasil adalah bukti skill.
+Saya ADE PRATAMA – Seorang **Bug Hunter** dan **Penetration Tester** dengan pendekatan metodis dan etis dalam menguji keamanan sistem. Saya tidak sekadar mencari celah, tetapi memastikan setiap kerentanan ditemukan dengan presisi dan diperbaiki dengan solusi yang tepat.  
 
-Di dunia cyber, gue adalah pemburu yang gak pernah meleset sasaran. Sistem yang keliatan aman? Tantangan diterima. Firewall yang keliatan kuat? Mari kita lihat seberapa tangguh.
+Setiap sistem yang saya uji adalah tantangan untuk memahami sejauh mana pertahanannya dapat bertahan. **Firewall yang ketat? Enkripsi yang kompleks?** Semua bisa dievaluasi dengan pendekatan sistematis. Namun, tujuan utama bukanlah eksploitasi, melainkan **memperkuat keamanan**.  
 
-Bukan cuma nyerang, gue juga membangun pertahanan. Setiap celah yang gue temukan, gue tutup rapat. Setiap sistem yang gue test, gue buat lebih kuat dari sebelumnya.
+Saya percaya bahwa **cybersecurity adalah tentang keseimbangan**—antara menemukan kelemahan dan membangun proteksi yang lebih baik. Pengalaman saya berada di level **menengah**, terus berkembang dengan mempelajari teknik baru, alat terkini, dan praktik terbaik di industri.  
+
+Jika ada sistem yang perlu diuji, saya siap membantu dengan **pendekatan profesional, etis, dan solutif**. Keamanan digital bukan permainan; ini adalah tanggung jawab.  
+
+**Mari jaga ekosistem digital tetap aman—dengan cara yang tepat.** 🔍🛡️
 
 ---
 
