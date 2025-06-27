@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=85&lines=ADE+PRATAMA+%7C+BUG+HUNTER;PENETRATION+TESTER+%7C+CYBER+ASSASSIN;VULNERABILITY+SCANNER+%7C+SYSTEM+BREAKER;DIGITAL+GHOST+%7C+NETWORK+INFILTRATOR" alt="Cyber Assassin"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cyber&color=gradient&customColorList=12,17,18,19,20&height=280&section=header&text=MENGAKSES%20SISTEM...&fontSize=52&fontColor=FF0000&animation=blinking&fontAlignY=38&desc=AKSES%20TERBATAS%20•%20LEVEL%20KEAMANAN:%20MAKSIMUM%20•%20ZONA%20BAHAYA&descAlignY=68&descSize=15"/>
-</div>
-
 ---
 
 ## 🎯 TARGET TERIDENTIFIKASI: KERENTANAN SISTEM
