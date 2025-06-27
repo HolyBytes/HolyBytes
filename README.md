@@ -1,16 +1,16 @@
-# 🔥 CYBER WARFARE ZONE 🔥
+# 💀 CYBER BATTLEFIELD 💀
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=00FF41&center=true&vCenter=true&width=800&height=80&lines=ADE+PRATAMA+%7C+CYBER+HUNTER;SYSTEM+BREAKER+%7C+VULNERABILITY+SEEKER;PENETRATION+TESTER+%7C+DIGITAL+WARRIOR" alt="Cyber Hunter"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=85&lines=ADE+PRATAMA+%7C+BUG+HUNTER;PENETRATION+TESTER+%7C+CYBER+ASSASSIN;VULNERABILITY+SCANNER+%7C+SYSTEM+BREAKER;DIGITAL+GHOST+%7C+NETWORK+INFILTRATOR" alt="Cyber Assassin"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=ACCESSING%20MAINFRAME...&fontSize=50&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=AUTHORIZED%20PERSONNEL%20ONLY%20•%20SECURITY%20LEVEL:%20MAXIMUM&descAlignY=65&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=cyber&color=gradient&customColorList=12,17,18,19,20&height=280&section=header&text=MENGAKSES%20SISTEM...&fontSize=52&fontColor=FF0000&animation=blinking&fontAlignY=38&desc=AKSES%20TERBATAS%20•%20LEVEL%20KEAMANAN:%20MAKSIMUM%20•%20ZONA%20BAHAYA&descAlignY=68&descSize=15"/>
 </div>
 
 ---
 
-## 🎯 TARGET IDENTIFIED: SYSTEM VULNERABILITIES
+## 🎯 TARGET TERIDENTIFIKASI: KERENTANAN SISTEM
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -21,25 +21,27 @@
 └──╼ whoami
 ```
 
-**STATUS**: `ACTIVE HUNTER` | **CLEARANCE**: `LEVEL 9` | **MISSION**: `SECURE THE DIGITAL REALM`
+**STATUS**: `AKTIF BERBURU` | **IZIN AKSES**: `LEVEL 9` | **MISI**: `AMANKAN DUNIA DIGITAL`
 
-Gue **ADE PRATAMA**, bukan script kiddie biasa. Seorang **Bug Hunter** dan **Penetration Tester** yang berburu kelemahan sistem seperti predator digital. Setiap vulnerability yang gue temukan adalah trophy, setiap exploit yang berhasil adalah bukti kemampuan.
+Gue **ADE PRATAMA**, bukan script kiddie amatiran. Seorang **Bug Hunter** dan **Penetration Tester** profesional yang berburu celah keamanan kayak predator digital. Setiap vulnerability yang gue temukan adalah trofi, setiap exploit yang berhasil adalah bukti skill.
 
-Di dunia maya, gue adalah pemburu yang tak pernah meleset. Sistem yang tampak aman? Challenge accepted. Firewall yang terlihat kuat? Let's see about that.
+Di dunia cyber, gue adalah pemburu yang gak pernah meleset sasaran. Sistem yang keliatan aman? Tantangan diterima. Firewall yang keliatan kuat? Mari kita lihat seberapa tangguh.
+
+Bukan cuma nyerang, gue juga membangun pertahanan. Setiap celah yang gue temukan, gue tutup rapat. Setiap sistem yang gue test, gue buat lebih kuat dari sebelumnya.
 
 ---
 
-## ⚔️ CYBER ARSENAL
+## ⚔️ ARSENAL CYBER
 
 <div align="center">
 
-### 🔴 OFFENSIVE SECURITY TOOLS
-| **PENETRATION** | **EXPLOITATION** | **RECONNAISSANCE** |
+### 🔴 TOOLS OFFENSIVE SECURITY
+| **PENETRASI** | **EKSPLOITASI** | **RECONNAISSANCE** |
 |:---:|:---:|:---:|
 | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) | ![Nmap](https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white) |
 | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white) | ![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge&logo=sqlite&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) |
 
-### 🔴 DEVELOPMENT WEAPONS
+### 🔴 SENJATA DEVELOPMENT
 | **BACKEND WARFARE** | **FRONTEND INFILTRATION** | **DATABASE BREACH** |
 |:---:|:---:|:---:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
@@ -50,20 +52,20 @@ Di dunia maya, gue adalah pemburu yang tak pernah meleset. Sistem yang tampak am
 
 ---
 
-## 🎯 HUNTING STATISTICS
+## 🎯 STATISTIK BERBURU
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HolyBytes&show_icons=true&theme=radical&bg_color=0d1117&title_color=00ff41&icon_color=ff0000&text_color=ffffff&border_color=00ff41" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HolyBytes&theme=radical&background=0d1117&stroke=00ff41&ring=ff0000&fire=00ff41&currStreakLabel=00ff41" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HolyBytes&show_icons=true&theme=radical&bg_color=0a0a0a&title_color=FF0000&icon_color=00FF00&text_color=ffffff&border_color=FF0000&hide_border=false&border_radius=15" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HolyBytes&theme=radical&background=0a0a0a&stroke=FF0000&ring=00FF00&fire=FF0000&currStreakLabel=00FF00&border=FF0000" width="48%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolyBytes&layout=compact&theme=radical&bg_color=0d1117&title_color=00ff41&text_color=ffffff&border_color=00ff41"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HolyBytes&layout=compact&theme=radical&bg_color=0a0a0a&title_color=FF0000&text_color=ffffff&border_color=FF0000&hide_border=false&border_radius=15"/>
 </div>
 
 ---
 
-## 💀 KILL CHAIN METHODOLOGY
+## 💀 METODOLOGI KILL CHAIN
 
 ```ascii
 ┌─────────────────────────────────────────────────────────────┐
@@ -73,101 +75,91 @@ Di dunia maya, gue adalah pemburu yang tak pernah meleset. Sistem yang tampak am
 └─────────────────────────────────────────────────────────────┘
 ```
 
-### 🔥 SPECIALIZED IN:
-- **Web Application Penetration Testing**
-- **Network Infrastructure Assessment** 
-- **Social Engineering Attacks**
-- **Mobile Application Security**
-- **API Security Testing**
-- **Malware Analysis & Reverse Engineering**
+### 🔥 SPESIALISASI:
+- **Pengujian Penetrasi Aplikasi Web**
+- **Assessment Infrastruktur Jaringan** 
+- **Serangan Social Engineering**
+- **Keamanan Aplikasi Mobile**
+- **Pengujian Keamanan API**
+- **Analisis Malware & Reverse Engineering**
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+## 🏆 PENCAPAIAN TERBUKA
 
 <div align="center">
 
-| **CERTIFICATION** | **PLATFORM** | **STATUS** |
+| **SERTIFIKASI** | **PLATFORM** | **STATUS** |
 |:---:|:---:|:---:|
-| 🎯 **CEH** (Certified Ethical Hacker) | EC-Council | `IN_PROGRESS` |
-| 🔴 **OSCP** (Offensive Security) | Offensive Security | `TARGET_LOCKED` |
-| 🛡️ **CISSP** (Security Professional) | ISC2 | `FUTURE_MISSION` |
+| 🎯 **CEH** (Certified Ethical Hacker) | EC-Council | `DALAM_PROSES` |
+| 🔴 **OSCP** (Offensive Security) | Offensive Security | `TARGET_TERKUNCI` |
+| 🛡️ **CISSP** (Security Professional) | ISC2 | `MISI_MASA_DEPAN` |
 
 </div>
 
 ---
 
-## 💻 RECENT EXPLOITS
+## 💻 EKSPLOIT TERBARU
 
 ```bash
-[+] Successfully identified SQL Injection vulnerability in target application
-[+] Bypassed WAF using advanced evasion techniques  
-[+] Escalated privileges through misconfigured SUID binaries
-[+] Compromised network through phishing campaign simulation
-[+] Discovered critical XSS vulnerability in client's web portal
+[+] Berhasil mengidentifikasi kerentanan SQL Injection pada aplikasi target
+[+] Menembus WAF menggunakan teknik evasion tingkat lanjut
+[+] Eskalasi privilege melalui misconfigured SUID binaries
+[+] Kompromi jaringan melalui simulasi kampanye phishing
+[+] Menemukan kerentanan XSS kritis pada portal web klien
+[+] Bypass authentication menggunakan teknik session hijacking
 ```
 
 ---
 
-## 🌐 DARK WEB COORDINATES
+
+
+## ⚡ DOKTRIN CYBER
 
 <div align="center">
-  <a href="https://github.com/HolyBytes">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your.email@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450"/>
 </div>
 
----
-
-## ⚡ CYBER DOCTRINE
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400"/>
-</div>
-
-> **"In the world of cyber warfare, there are only two types of systems: those that have been compromised, and those that will be compromised. I simply expedite the inevitable."**
+> **"Di dunia cyber warfare, hanya ada dua jenis sistem: yang sudah dikompromikan, dan yang akan dikompromikan. Gue cuma mempercepat yang tak terelakkan."**
 > 
-> **"Every system has a weakness. Every code has a flaw. Every defense has a gap. My job is to find them before the real threats do."**
+> **"Setiap sistem punya kelemahan. Setiap kode punya celah. Setiap pertahanan punya gap. Tugas gue adalah menemukannya sebelum ancaman nyata melakukannya."**
+>
+> **"Gue bukan perusak. Gue adalah pembersih digital yang menunjukkan di mana kotoran tersembunyi."**
 
 ---
 
-## 🔐 CLASSIFIED INTEL
+## 🔐 INTEL TERKLASIFIKASI
 
 ```
-Access Level: RESTRICTED
-Clearance: CONFIDENTIAL
-Subject: Digital Warfare Specialist
+Level Akses: TERBATAS
+Izin: RAHASIA
+Subjek: Spesialis Perang Digital
 
-MISSION STATEMENT:
-- Protect the innocent by exposing the vulnerable
-- Hunt bugs like a digital predator  
-- Turn every system breach into a learning opportunity
-- Stay ahead of black hat adversaries
+PERNYATAAN MISI:
+- Melindungi yang tidak berdosa dengan mengekspos yang rentan
+- Berburu bug seperti predator digital  
+- Mengubah setiap pelanggaran sistem menjadi kesempatan belajar
+- Selalu selangkah lebih maju dari adversari black hat
 
-WARNING: Unauthorized access to systems is illegal.
-All activities conducted within legal boundaries and with proper authorization.
+PERINGATAN: Akses tidak sah ke sistem adalah ilegal.
+Semua aktivitas dilakukan dalam batas hukum dan dengan otorisasi yang tepat.
 ```
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=CONNECTION%20TERMINATED&fontSize=30&fontColor=00FF41&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,18,19,20&height=120&section=footer&text=KONEKSI%20TERPUTUS&fontSize=32&fontColor=FF0000&animation=blinking"/>
 </div>
 
 <div align="center">
   
-**🔴 REMEMBER: WITH GREAT POWER COMES GREAT RESPONSIBILITY 🔴**
+**🔴 INGAT: DENGAN KEKUATAN BESAR DATANG TANGGUNG JAWAB BESAR 🔴**
 
-*Always hunt responsibly. Always hack ethically. Always protect the innocent.*
+*Selalu berburu dengan bertanggung jawab. Selalu hack secara etis. Selalu lindungi yang tidak berdosa.*
 
 ---
 
 **© 2025 ADE PRATAMA | CYBER HUNTER | DIGITAL WARRIOR**
+**SMK NEGERI 1 PULAU RAKYAT | KELAS XII TKJ3**
 
 </div>
